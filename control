@@ -1,0 +1,9 @@
+Package: com.biscuitlabs.exampletweak
+Name: Example Jailbreak Tweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An example of a Jailbreak Tweak (and my first!).
+Maintainer: Michael Thomas
+Author: Michael Thomas
+Section: Tweaks
